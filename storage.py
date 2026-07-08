@@ -51,7 +51,11 @@ def _push_to_github(content_str, github_cfg):
 
     # Need the current file's sha to update it (GitHub requires this for edits)
     sha = None
-    r = requests.get(api_url, headers=headers, params={"ref": branch}, timeout=15)
+    try:
+        r = requests.get(api_url, headers=headers, params={"ref": branch}, timeout=15)
+    except Exception as e:
+        return False, f"GitHub GET request failed: {e}"
+
     if r.status_code == 200:
         sha = r.json().get("sha")
     elif r.status_code != 404:
@@ -65,7 +69,11 @@ def _push_to_github(content_str, github_cfg):
     if sha:
         payload["sha"] = sha
 
-    r = requests.put(api_url, headers=headers, json=payload, timeout=15)
+    try:
+        r = requests.put(api_url, headers=headers, json=payload, timeout=15)
+    except Exception as e:
+        return False, f"GitHub PUT request failed: {e}"
+
     if r.status_code in (200, 201):
         return True, "Committed to GitHub."
     return False, f"GitHub PUT failed: {r.status_code} {r.text[:200]}"
@@ -131,4 +139,3 @@ def overall_totals(data=None):
         "net_units": round(returned - staked, 1),
         "roi_pct": round((returned - staked) / staked * 100, 1) if staked else 0.0,
     }
-
