@@ -64,7 +64,7 @@ c4.metric("Slips won", f"{totals['slips_won']}/{totals['slips_staked']}")
 st.markdown("### Day by day")
 if data:
     rows = []
-    for date in sorted(data.keys()):
+    for date in sorted(data.keys(), reverse=True):  # newest day on top
         d = data[date]
         rows.append({
             "Date": date,
