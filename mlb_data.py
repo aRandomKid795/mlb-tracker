@@ -23,7 +23,7 @@ def get_game_pks(date):
     return [g["gamePk"] for day in data.get("dates", []) for g in day.get("games", [])]
 
 
-def _batter_stat(batting):
+def _batter_stat(batting, team_abbr=None):
     return {
         "ab": batting.get("atBats", 0),
         "pa": batting.get("plateAppearances", 0),
@@ -36,6 +36,7 @@ def _batter_stat(batting):
         "bb": batting.get("baseOnBalls", 0),
         "hbp": batting.get("hitByPitch", 0),
         "sb": batting.get("stolenBases", 0),
+        "team": team_abbr,
     }
 
 
@@ -61,11 +62,12 @@ def build_lookup(date, progress=None):
             continue
         for side in ("home", "away"):
             team = box.get("teams", {}).get(side, {})
+            team_abbr = team.get("team", {}).get("abbreviation")
             for player in team.get("players", {}).values():
                 batting = player.get("stats", {}).get("batting", {})
                 if batting:  # only players who batted
                     name = player["person"]["fullName"]
-                    lookup[normalize(name)] = _batter_stat(batting)
+                    lookup[normalize(name)] = _batter_stat(batting, team_abbr)
         if progress:
             progress((i + 1) / total, f"Fetched {i + 1}/{total} games")
 
