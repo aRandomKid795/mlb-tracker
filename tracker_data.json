@@ -6168,18 +6168,5 @@
     "units_returned": 30.0,
     "units_staked": 17,
     "voids": 12
-  },
-  "2026-07-05": {
-    "leg_hits": 54,
-    "leg_misses": 36,
-    "leg_win_pct": 60.0,
-    "net_units": 10.0,
-    "pushes": 5,
-    "slips_staked": 20,
-    "slips_text": "",
-    "slips_won": 4,
-    "units_returned": 30.0,
-    "units_staked": 20,
-    "voids": 16
   }
 }
