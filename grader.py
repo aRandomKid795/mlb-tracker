@@ -68,20 +68,21 @@ def normalize(name):
 def grade_leg(player_name, line, lookup):
     """
     lookup: {normalized_name: stat_dict} built from the day's boxscores.
-    Returns (result, pa, score) where result is HIT / MISS / PUSH / VOID.
+    Returns (result, pa, score, team) where result is HIT / MISS / PUSH / VOID.
     """
     stat = lookup.get(normalize(player_name))
     if stat is None:
-        return "VOID", 0, 0  # DNP / not in any boxscore
+        return "VOID", 0, 0, None  # DNP / not in any boxscore
     pa = stat["pa"]
     score = fantasy_score(stat)
+    team = stat.get("team")
     if pa < MIN_PA:
-        return "VOID", pa, score
+        return "VOID", pa, score, team
     if score > line:
-        return "HIT", pa, score
+        return "HIT", pa, score, team
     if score == line:
-        return "PUSH", pa, score
-    return "MISS", pa, score
+        return "PUSH", pa, score, team
+    return "MISS", pa, score, team
 
 
 def grade_slip(legs, lookup, multiplier_override=None):
@@ -96,10 +97,10 @@ def grade_slip(legs, lookup, multiplier_override=None):
     counting = 0
     hits = 0
     for name, line in legs:
-        result, pa, score = grade_leg(name, line, lookup)
+        result, pa, score, team = grade_leg(name, line, lookup)
         graded.append({
             "player": name, "line": line, "pa": pa,
-            "score": score, "result": result,
+            "score": score, "result": result, "team": team,
         })
         if result in ("HIT", "MISS"):
             counting += 1
