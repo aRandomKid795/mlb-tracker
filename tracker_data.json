@@ -14501,6 +14501,1104 @@
     "units_staked": 19,
     "voids": 14
   },
+  "2026-07-10": {
+    "leg_hits": 60,
+    "leg_misses": 39,
+    "leg_win_pct": 60.6,
+    "net_units": -19.0,
+    "pushes": 4,
+    "slips": {
+      "1": {
+        "counting_legs": 6,
+        "hits": 2,
+        "leg_record": "2-4",
+        "legs": [
+          {
+            "line": 6.5,
+            "pa": 4,
+            "player": "Gunnar Henderson",
+            "result": "MISS",
+            "score": 5,
+            "team": "BAL"
+          },
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Adley Rutschman",
+            "result": "MISS",
+            "score": 5,
+            "team": "BAL"
+          },
+          {
+            "line": 5.5,
+            "pa": 5,
+            "player": "Elly De La Cruz",
+            "result": "HIT",
+            "score": 24,
+            "team": "CIN"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Sal Stewart",
+            "result": "HIT",
+            "score": 8,
+            "team": "CIN"
+          },
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Dalton Rushing",
+            "result": "MISS",
+            "score": 0,
+            "team": "LAD"
+          },
+          {
+            "line": 3.5,
+            "pa": 3,
+            "player": "Henry Bolte",
+            "result": "MISS",
+            "score": 2,
+            "team": "ATH"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "10": {
+        "counting_legs": 4,
+        "hits": 2,
+        "leg_record": "2-2",
+        "legs": [
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Cal Raleigh",
+            "result": "MISS",
+            "score": 0,
+            "team": "SEA"
+          },
+          {
+            "line": 5.0,
+            "pa": 4,
+            "player": "Josh Naylor",
+            "result": "HIT",
+            "score": 10,
+            "team": "SEA"
+          },
+          {
+            "line": 5.5,
+            "pa": 5,
+            "player": "Luis Arraez",
+            "result": "HIT",
+            "score": 18,
+            "team": "SF"
+          },
+          {
+            "line": 4.5,
+            "pa": 5,
+            "player": "Willy Adames",
+            "result": "MISS",
+            "score": 2,
+            "team": "SF"
+          },
+          {
+            "line": 4.0,
+            "pa": 5,
+            "player": "Cole Carrigg",
+            "result": "PUSH",
+            "score": 4,
+            "team": "COL"
+          },
+          {
+            "line": 4.5,
+            "pa": 0,
+            "player": "J.T. Realmuto",
+            "result": "VOID",
+            "score": 0,
+            "team": null
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "11": {
+        "counting_legs": 5,
+        "hits": 4,
+        "leg_record": "4-1",
+        "legs": [
+          {
+            "line": 4.5,
+            "pa": 3,
+            "player": "Cole Young",
+            "result": "HIT",
+            "score": 14,
+            "team": "SEA"
+          },
+          {
+            "line": 3.5,
+            "pa": 1,
+            "player": "Victor Robles",
+            "result": "VOID",
+            "score": 0,
+            "team": "SEA"
+          },
+          {
+            "line": 5.0,
+            "pa": 4,
+            "player": "Heriberto Hern\u00e1ndez",
+            "result": "HIT",
+            "score": 16,
+            "team": "MIA"
+          },
+          {
+            "line": 3.0,
+            "pa": 3,
+            "player": "Esteury Ruiz",
+            "result": "HIT",
+            "score": 11,
+            "team": "MIA"
+          },
+          {
+            "line": 5.5,
+            "pa": 5,
+            "player": "Miguel Vargas",
+            "result": "HIT",
+            "score": 30,
+            "team": "CWS"
+          },
+          {
+            "line": 6.5,
+            "pa": 4,
+            "player": "Juan Soto",
+            "result": "MISS",
+            "score": 5,
+            "team": "NYM"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "12": {
+        "counting_legs": 5,
+        "hits": 1,
+        "leg_record": "1-4",
+        "legs": [
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Drake Baldwin",
+            "result": "MISS",
+            "score": 0,
+            "team": "ATL"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Mauricio Dub\u00f3n",
+            "result": "MISS",
+            "score": 0,
+            "team": "ATL"
+          },
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Travis Bazzana",
+            "result": "MISS",
+            "score": 2,
+            "team": "CLE"
+          },
+          {
+            "line": 5.0,
+            "pa": 4,
+            "player": "Brayan Rocchio",
+            "result": "PUSH",
+            "score": 5,
+            "team": "CLE"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Luke Keaschall",
+            "result": "MISS",
+            "score": 2,
+            "team": "MIN"
+          },
+          {
+            "line": 3.5,
+            "pa": 5,
+            "player": "Braden Montgomery",
+            "result": "HIT",
+            "score": 5,
+            "team": "CWS"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "13": {
+        "counting_legs": 6,
+        "hits": 4,
+        "leg_record": "4-2",
+        "legs": [
+          {
+            "line": 4.5,
+            "pa": 3,
+            "player": "Dominic Smith",
+            "result": "MISS",
+            "score": 0,
+            "team": "ATL"
+          },
+          {
+            "line": 4.5,
+            "pa": 3,
+            "player": "Austin Riley",
+            "result": "HIT",
+            "score": 12,
+            "team": "ATL"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Esmerlyn Valdez",
+            "result": "HIT",
+            "score": 39,
+            "team": "PIT"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Nick Gonzales",
+            "result": "HIT",
+            "score": 5,
+            "team": "PIT"
+          },
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Taylor Walls",
+            "result": "MISS",
+            "score": 2,
+            "team": "TB"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Garrett Mitchell",
+            "result": "HIT",
+            "score": 9,
+            "team": "MIL"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "14": {
+        "counting_legs": 5,
+        "hits": 4,
+        "leg_record": "4-1",
+        "legs": [
+          {
+            "line": 5.0,
+            "pa": 5,
+            "player": "William Contreras",
+            "result": "HIT",
+            "score": 12,
+            "team": "MIL"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Jake Bauers",
+            "result": "HIT",
+            "score": 18,
+            "team": "MIL"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Ian Happ",
+            "result": "HIT",
+            "score": 5,
+            "team": "CHC"
+          },
+          {
+            "line": 5.0,
+            "pa": 3,
+            "player": "Nico Hoerner",
+            "result": "MISS",
+            "score": 0,
+            "team": "CHC"
+          },
+          {
+            "line": 3.5,
+            "pa": 3,
+            "player": "Mike Yastrzemski",
+            "result": "HIT",
+            "score": 7,
+            "team": "ATL"
+          },
+          {
+            "line": 3.0,
+            "pa": 4,
+            "player": "Hunter Feduccia",
+            "result": "PUSH",
+            "score": 3,
+            "team": "TB"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "15": {
+        "counting_legs": 4,
+        "hits": 2,
+        "leg_record": "2-2",
+        "legs": [
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Cam Smith",
+            "result": "MISS",
+            "score": 0,
+            "team": "HOU"
+          },
+          {
+            "line": 3.5,
+            "pa": 3,
+            "player": "Yainer Diaz",
+            "result": "HIT",
+            "score": 16,
+            "team": "HOU"
+          },
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Zach Neto",
+            "result": "MISS",
+            "score": 5,
+            "team": "LAA"
+          },
+          {
+            "line": 5.5,
+            "pa": 0,
+            "player": "Mike Trout",
+            "result": "VOID",
+            "score": 0,
+            "team": null
+          },
+          {
+            "line": 3.0,
+            "pa": 4,
+            "player": "Keibert Ruiz",
+            "result": "HIT",
+            "score": 14,
+            "team": "WSH"
+          },
+          {
+            "line": 3.0,
+            "pa": 2,
+            "player": "Nicky Lopez",
+            "result": "VOID",
+            "score": 7,
+            "team": "TEX"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "16": {
+        "counting_legs": 5,
+        "hits": 4,
+        "leg_record": "4-1",
+        "legs": [
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Dylan Crews",
+            "result": "MISS",
+            "score": 0,
+            "team": "WSH"
+          },
+          {
+            "line": 3.5,
+            "pa": 2,
+            "player": "Nasim Nu\u00f1ez",
+            "result": "VOID",
+            "score": 0,
+            "team": "WSH"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "JJ Wetherholt",
+            "result": "HIT",
+            "score": 6,
+            "team": "STL"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Jordan Walker",
+            "result": "HIT",
+            "score": 5,
+            "team": "STL"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Sal Frelick",
+            "result": "HIT",
+            "score": 16,
+            "team": "MIL"
+          },
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Jared Young",
+            "result": "HIT",
+            "score": 8,
+            "team": "NYM"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "17": {
+        "counting_legs": 4,
+        "hits": 3,
+        "leg_record": "3-1",
+        "legs": [
+          {
+            "line": 5.0,
+            "pa": 4,
+            "player": "Teoscar Hern\u00e1ndez",
+            "result": "MISS",
+            "score": 0,
+            "team": "LAD"
+          },
+          {
+            "line": 4.5,
+            "pa": 0,
+            "player": "Max Muncy",
+            "result": "VOID",
+            "score": 0,
+            "team": null
+          },
+          {
+            "line": 5.5,
+            "pa": 5,
+            "player": "Kevin McGonigle",
+            "result": "HIT",
+            "score": 16,
+            "team": "DET"
+          },
+          {
+            "line": 3.5,
+            "pa": 5,
+            "player": "Colt Keith",
+            "result": "HIT",
+            "score": 14,
+            "team": "DET"
+          },
+          {
+            "line": 3.0,
+            "pa": 4,
+            "player": "Drew Cavanaugh",
+            "result": "HIT",
+            "score": 5,
+            "team": "SF"
+          },
+          {
+            "line": 4.5,
+            "pa": 1,
+            "player": "Victor Caratini",
+            "result": "VOID",
+            "score": 0,
+            "team": "MIN"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "18": {
+        "counting_legs": 6,
+        "hits": 5,
+        "leg_record": "5-1",
+        "legs": [
+          {
+            "line": 5.0,
+            "pa": 5,
+            "player": "Bryce Eldridge",
+            "result": "MISS",
+            "score": 2,
+            "team": "SF"
+          },
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Drew Gilbert",
+            "result": "HIT",
+            "score": 5,
+            "team": "SF"
+          },
+          {
+            "line": 4.0,
+            "pa": 3,
+            "player": "Joc Pederson",
+            "result": "HIT",
+            "score": 16,
+            "team": "TEX"
+          },
+          {
+            "line": 5.0,
+            "pa": 4,
+            "player": "Brandon Nimmo",
+            "result": "HIT",
+            "score": 12,
+            "team": "TEX"
+          },
+          {
+            "line": 4.0,
+            "pa": 5,
+            "player": "Anthony Seigler",
+            "result": "HIT",
+            "score": 21,
+            "team": "BOS"
+          },
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Vladimir Guerrero Jr.",
+            "result": "HIT",
+            "score": 11,
+            "team": "TOR"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "19": {
+        "counting_legs": 6,
+        "hits": 5,
+        "leg_record": "5-1",
+        "legs": [
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Kazuma Okamoto",
+            "result": "HIT",
+            "score": 20,
+            "team": "TOR"
+          },
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Alejandro Kirk",
+            "result": "HIT",
+            "score": 7,
+            "team": "TOR"
+          },
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Cody Bellinger",
+            "result": "HIT",
+            "score": 6,
+            "team": "NYY"
+          },
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Jazz Chisholm Jr.",
+            "result": "HIT",
+            "score": 16,
+            "team": "NYY"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Riley Greene",
+            "result": "HIT",
+            "score": 15,
+            "team": "DET"
+          },
+          {
+            "line": 5.5,
+            "pa": 5,
+            "player": "Fernando Tatis Jr.",
+            "result": "MISS",
+            "score": 3,
+            "team": "SD"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "2": {
+        "counting_legs": 5,
+        "hits": 2,
+        "leg_record": "2-3",
+        "legs": [
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Taylor Ward",
+            "result": "MISS",
+            "score": 5,
+            "team": "BAL"
+          },
+          {
+            "line": 6.5,
+            "pa": 4,
+            "player": "Pete Alonso",
+            "result": "HIT",
+            "score": 7,
+            "team": "BAL"
+          },
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Carter Jensen",
+            "result": "MISS",
+            "score": 0,
+            "team": "KC"
+          },
+          {
+            "line": 7.5,
+            "pa": 4,
+            "player": "Bobby Witt Jr.",
+            "result": "MISS",
+            "score": 5,
+            "team": "KC"
+          },
+          {
+            "line": 5.5,
+            "pa": 0,
+            "player": "Nick Kurtz",
+            "result": "VOID",
+            "score": 0,
+            "team": null
+          },
+          {
+            "line": 5.0,
+            "pa": 4,
+            "player": "Chase DeLauter",
+            "result": "HIT",
+            "score": 19,
+            "team": "CLE"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "3": {
+        "counting_legs": 6,
+        "hits": 4,
+        "leg_record": "4-2",
+        "legs": [
+          {
+            "line": 5.0,
+            "pa": 4,
+            "player": "Samuel Basallo",
+            "result": "HIT",
+            "score": 16,
+            "team": "BAL"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Colton Cowser",
+            "result": "MISS",
+            "score": 0,
+            "team": "BAL"
+          },
+          {
+            "line": 5.0,
+            "pa": 4,
+            "player": "Brooks Lee",
+            "result": "HIT",
+            "score": 14,
+            "team": "MIN"
+          },
+          {
+            "line": 5.0,
+            "pa": 4,
+            "player": "Josh Bell",
+            "result": "HIT",
+            "score": 12,
+            "team": "MIN"
+          },
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Jakob Marsee",
+            "result": "HIT",
+            "score": 10,
+            "team": "MIA"
+          },
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Jared Triolo",
+            "result": "MISS",
+            "score": 0,
+            "team": "PIT"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "4": {
+        "counting_legs": 6,
+        "hits": 3,
+        "leg_record": "3-3",
+        "legs": [
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Blaze Alexander",
+            "result": "HIT",
+            "score": 19,
+            "team": "BAL"
+          },
+          {
+            "line": 3.5,
+            "pa": 3,
+            "player": "Jackson Holliday",
+            "result": "HIT",
+            "score": 5,
+            "team": "BAL"
+          },
+          {
+            "line": 5.0,
+            "pa": 4,
+            "player": "Randy Arozarena",
+            "result": "MISS",
+            "score": 3,
+            "team": "SEA"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Dominic Canzone",
+            "result": "MISS",
+            "score": 2,
+            "team": "SEA"
+          },
+          {
+            "line": 3.5,
+            "pa": 3,
+            "player": "Steven Kwan",
+            "result": "MISS",
+            "score": 3,
+            "team": "CLE"
+          },
+          {
+            "line": 4.5,
+            "pa": 3,
+            "player": "Isaac Collins",
+            "result": "HIT",
+            "score": 17,
+            "team": "KC"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "5": {
+        "counting_legs": 5,
+        "hits": 3,
+        "leg_record": "3-2",
+        "legs": [
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Spencer Steer",
+            "result": "HIT",
+            "score": 11,
+            "team": "CIN"
+          },
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Tyler Stephenson",
+            "result": "HIT",
+            "score": 6,
+            "team": "CIN"
+          },
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Ozzie Albies",
+            "result": "MISS",
+            "score": 0,
+            "team": "ATL"
+          },
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Matt Olson",
+            "result": "MISS",
+            "score": 2,
+            "team": "ATL"
+          },
+          {
+            "line": 3.0,
+            "pa": 0,
+            "player": "Logan O'Hoppe",
+            "result": "VOID",
+            "score": 0,
+            "team": null
+          },
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Henry Davis",
+            "result": "HIT",
+            "score": 9,
+            "team": "PIT"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "6": {
+        "counting_legs": 4,
+        "hits": 1,
+        "leg_record": "1-3",
+        "legs": [
+          {
+            "line": 3.0,
+            "pa": 4,
+            "player": "Edwin Arroyo",
+            "result": "HIT",
+            "score": 6,
+            "team": "CIN"
+          },
+          {
+            "line": 3.5,
+            "pa": 0,
+            "player": "Matt McLain",
+            "result": "VOID",
+            "score": 0,
+            "team": null
+          },
+          {
+            "line": 5.5,
+            "pa": 1,
+            "player": "Jackson Chourio",
+            "result": "VOID",
+            "score": 0,
+            "team": "MIL"
+          },
+          {
+            "line": 5.5,
+            "pa": 5,
+            "player": "Brice Turang",
+            "result": "MISS",
+            "score": 4,
+            "team": "MIL"
+          },
+          {
+            "line": 3.5,
+            "pa": 3,
+            "player": "Dansby Swanson",
+            "result": "MISS",
+            "score": 3,
+            "team": "CHC"
+          },
+          {
+            "line": 4.5,
+            "pa": 3,
+            "player": "Alec Burleson",
+            "result": "MISS",
+            "score": 0,
+            "team": "STL"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "7": {
+        "counting_legs": 6,
+        "hits": 4,
+        "leg_record": "4-2",
+        "legs": [
+          {
+            "line": 6.5,
+            "pa": 4,
+            "player": "Jac Caglianone",
+            "result": "HIT",
+            "score": 17,
+            "team": "KC"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Lane Thomas",
+            "result": "MISS",
+            "score": 0,
+            "team": "KC"
+          },
+          {
+            "line": 6.5,
+            "pa": 4,
+            "player": "Yordan Alvarez",
+            "result": "HIT",
+            "score": 17,
+            "team": "HOU"
+          },
+          {
+            "line": 3.5,
+            "pa": 3,
+            "player": "LaMonte Wade Jr.",
+            "result": "HIT",
+            "score": 8,
+            "team": "HOU"
+          },
+          {
+            "line": 3.0,
+            "pa": 4,
+            "player": "Wade Meckler",
+            "result": "HIT",
+            "score": 8,
+            "team": "LAA"
+          },
+          {
+            "line": 5.5,
+            "pa": 4,
+            "player": "Kyle Schwarber",
+            "result": "MISS",
+            "score": 2,
+            "team": "PHI"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "8": {
+        "counting_legs": 6,
+        "hits": 4,
+        "leg_record": "4-2",
+        "legs": [
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Michael Massey",
+            "result": "HIT",
+            "score": 9,
+            "team": "KC"
+          },
+          {
+            "line": 4.5,
+            "pa": 3,
+            "player": "Nick Loftin",
+            "result": "MISS",
+            "score": 0,
+            "team": "KC"
+          },
+          {
+            "line": 5.5,
+            "pa": 5,
+            "player": "James Wood",
+            "result": "HIT",
+            "score": 24,
+            "team": "WSH"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "CJ Abrams",
+            "result": "HIT",
+            "score": 5,
+            "team": "WSH"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Jo Adell",
+            "result": "MISS",
+            "score": 0,
+            "team": "LAA"
+          },
+          {
+            "line": 4.5,
+            "pa": 5,
+            "player": "Chase Meidroth",
+            "result": "HIT",
+            "score": 16,
+            "team": "CWS"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      },
+      "9": {
+        "counting_legs": 5,
+        "hits": 3,
+        "leg_record": "3-2",
+        "legs": [
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Royce Lewis",
+            "result": "HIT",
+            "score": 5,
+            "team": "MIN"
+          },
+          {
+            "line": 5.0,
+            "pa": 5,
+            "player": "Kody Clemens",
+            "result": "MISS",
+            "score": 2,
+            "team": "MIN"
+          },
+          {
+            "line": 5.5,
+            "pa": 3,
+            "player": "Freddie Freeman",
+            "result": "MISS",
+            "score": 0,
+            "team": "LAD"
+          },
+          {
+            "line": 5.0,
+            "pa": 3,
+            "player": "Kyle Tucker",
+            "result": "PUSH",
+            "score": 5,
+            "team": "LAD"
+          },
+          {
+            "line": 3.0,
+            "pa": 3,
+            "player": "Blaze Jordan",
+            "result": "HIT",
+            "score": 5,
+            "team": "STL"
+          },
+          {
+            "line": 5.5,
+            "pa": 5,
+            "player": "Jonathan Aranda",
+            "result": "HIT",
+            "score": 13,
+            "team": "TB"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      }
+    },
+    "slips_staked": 19,
+    "slips_text": "Slip 1\n1. Gunnar Henderson - More 6.5 Hitter Fantasy Score\n2. Adley Rutschman - More 5.5 Hitter Fantasy Score\n3. Elly De La Cruz - More 5.5 Hitter Fantasy Score\n4. Sal Stewart - More 4.5 Hitter Fantasy Score\n5. Dalton Rushing - More 3.5 Hitter Fantasy Score\n6. Henry Bolte - More 3.5 Hitter Fantasy Score\n\nSlip 2\n1. Taylor Ward - More 5.5 Hitter Fantasy Score\n2. Pete Alonso - More 6.5 Hitter Fantasy Score\n3. Carter Jensen - More 5.5 Hitter Fantasy Score\n4. Bobby Witt Jr. - More 7.5 Hitter Fantasy Score\n5. Nick Kurtz - More 5.5 Hitter Fantasy Score\n6. Chase DeLauter - More 5.0 Hitter Fantasy Score\n\nSlip 3\n1. Samuel Basallo - More 5.0 Hitter Fantasy Score\n2. Colton Cowser - More 4.5 Hitter Fantasy Score\n3. Brooks Lee - More 5.0 Hitter Fantasy Score\n4. Josh Bell - More 5.0 Hitter Fantasy Score\n5. Jakob Marsee - More 3.5 Hitter Fantasy Score\n6. Jared Triolo - More 3.5 Hitter Fantasy Score\n\nSlip 4\n1. Blaze Alexander - More 3.5 Hitter Fantasy Score\n2. Jackson Holliday - More 3.5 Hitter Fantasy Score\n3. Randy Arozarena - More 5.0 Hitter Fantasy Score\n4. Dominic Canzone - More 4.5 Hitter Fantasy Score\n5. Steven Kwan - More 3.5 Hitter Fantasy Score\n6. Isaac Collins - More 4.5 Hitter Fantasy Score\n\nSlip 5\n1. Spencer Steer - More 4.5 Hitter Fantasy Score\n2. Tyler Stephenson - More 3.5 Hitter Fantasy Score\n3. Ozzie Albies - More 5.5 Hitter Fantasy Score\n4. Matt Olson - More 5.5 Hitter Fantasy Score\n5. Logan O'Hoppe - More 3.0 Hitter Fantasy Score\n6. Henry Davis - More 3.5 Hitter Fantasy Score\n\nSlip 6\n1. Edwin Arroyo - More 3.0 Hitter Fantasy Score\n2. Matt McLain - More 3.5 Hitter Fantasy Score\n3. Jackson Chourio - More 5.5 Hitter Fantasy Score\n4. Brice Turang - More 5.5 Hitter Fantasy Score\n5. Dansby Swanson - More 3.5 Hitter Fantasy Score\n6. Alec Burleson - More 4.5 Hitter Fantasy Score\n\nSlip 7\n1. Jac Caglianone - More 6.5 Hitter Fantasy Score\n2. Lane Thomas - More 4.5 Hitter Fantasy Score\n3. Yordan Alvarez - More 6.5 Hitter Fantasy Score\n4. LaMonte Wade Jr. - More 3.5 Hitter Fantasy Score\n5. Wade Meckler - More 3.0 Hitter Fantasy Score\n6. Kyle Schwarber - More 5.5 Hitter Fantasy Score\n\nSlip 8\n1. Michael Massey - More 4.5 Hitter Fantasy Score\n2. Nick Loftin - More 4.5 Hitter Fantasy Score\n3. James Wood - More 5.5 Hitter Fantasy Score\n4. CJ Abrams - More 4.5 Hitter Fantasy Score\n5. Jo Adell - More 4.5 Hitter Fantasy Score\n6. Chase Meidroth - More 4.5 Hitter Fantasy Score\n\nSlip 9\n1. Royce Lewis - More 4.5 Hitter Fantasy Score\n2. Kody Clemens - More 5.0 Hitter Fantasy Score\n3. Freddie Freeman - More 5.5 Hitter Fantasy Score\n4. Kyle Tucker - More 5.0 Hitter Fantasy Score\n5. Blaze Jordan - More 3.0 Hitter Fantasy Score\n6. Jonathan Aranda - More 5.5 Hitter Fantasy Score\n\nSlip 10\n1. Cal Raleigh - More 4.5 Hitter Fantasy Score\n2. Josh Naylor - More 5.0 Hitter Fantasy Score\n3. Luis Arraez - More 5.5 Hitter Fantasy Score\n4. Willy Adames - More 4.5 Hitter Fantasy Score\n5. Cole Carrigg - More 4.0 Hitter Fantasy Score\n6. J.T. Realmuto - More 4.5 Hitter Fantasy Score\n\nSlip 11\n1. Cole Young - More 4.5 Hitter Fantasy Score\n2. Victor Robles - More 3.5 Hitter Fantasy Score\n3. Heriberto Hern\u00e1ndez - More 5.0 Hitter Fantasy Score\n4. Esteury Ruiz - More 3.0 Hitter Fantasy Score\n5. Miguel Vargas - More 5.5 Hitter Fantasy Score\n6. Juan Soto - More 6.5 Hitter Fantasy Score\n\nSlip 12\n1. Drake Baldwin - More 5.5 Hitter Fantasy Score\n2. Mauricio Dub\u00f3n - More 4.5 Hitter Fantasy Score\n3. Travis Bazzana - More 5.5 Hitter Fantasy Score\n4. Brayan Rocchio - More 5.0 Hitter Fantasy Score\n5. Luke Keaschall - More 4.5 Hitter Fantasy Score\n6. Braden Montgomery - More 3.5 Hitter Fantasy Score\n\nSlip 13\n1. Dominic Smith - More 4.5 Hitter Fantasy Score\n2. Austin Riley - More 4.5 Hitter Fantasy Score\n3. Esmerlyn Valdez - More 4.5 Hitter Fantasy Score\n4. Nick Gonzales - More 4.5 Hitter Fantasy Score\n5. Taylor Walls - More 3.5 Hitter Fantasy Score\n6. Garrett Mitchell - More 4.5 Hitter Fantasy Score\n\nSlip 14\n1. William Contreras - More 5.0 Hitter Fantasy Score\n2. Jake Bauers - More 4.5 Hitter Fantasy Score\n3. Ian Happ - More 4.5 Hitter Fantasy Score\n4. Nico Hoerner - More 5.0 Hitter Fantasy Score\n5. Mike Yastrzemski - More 3.5 Hitter Fantasy Score\n6. Hunter Feduccia - More 3.0 Hitter Fantasy Score\n\nSlip 15\n1. Cam Smith - More 4.5 Hitter Fantasy Score\n2. Yainer Diaz - More 3.5 Hitter Fantasy Score\n3. Zach Neto - More 5.5 Hitter Fantasy Score\n4. Mike Trout - More 5.5 Hitter Fantasy Score\n5. Keibert Ruiz - More 3.0 Hitter Fantasy Score\n6. Nicky Lopez - More 3.0 Hitter Fantasy Score\n\nSlip 16\n1. Dylan Crews - More 4.5 Hitter Fantasy Score\n2. Nasim Nu\u00f1ez - More 3.5 Hitter Fantasy Score\n3. JJ Wetherholt - More 4.5 Hitter Fantasy Score\n4. Jordan Walker - More 4.5 Hitter Fantasy Score\n5. Sal Frelick - More 4.5 Hitter Fantasy Score\n6. Jared Young - More 3.5 Hitter Fantasy Score\n\nSlip 17\n1. Teoscar Hern\u00e1ndez - More 5.0 Hitter Fantasy Score\n2. Max Muncy - More 4.5 Hitter Fantasy Score\n3. Kevin McGonigle - More 5.5 Hitter Fantasy Score\n4. Colt Keith - More 3.5 Hitter Fantasy Score\n5. Drew Cavanaugh - More 3.0 Hitter Fantasy Score\n6. Victor Caratini - More 4.5 Hitter Fantasy Score\n\nSlip 18\n1. Bryce Eldridge - More 5.0 Hitter Fantasy Score\n2. Drew Gilbert - More 3.5 Hitter Fantasy Score\n3. Joc Pederson - More 4.0 Hitter Fantasy Score\n4. Brandon Nimmo - More 5.0 Hitter Fantasy Score\n5. Anthony Seigler - More 4.0 Hitter Fantasy Score\n6. Vladimir Guerrero Jr. - More 5.5 Hitter Fantasy Score\n\nSlip 19\n1. Kazuma Okamoto - More 4.5 Hitter Fantasy Score\n2. Alejandro Kirk - More 3.5 Hitter Fantasy Score\n3. Cody Bellinger - More 5.5 Hitter Fantasy Score\n4. Jazz Chisholm Jr. - More 5.5 Hitter Fantasy Score\n5. Riley Greene - More 4.5 Hitter Fantasy Score\n6. Fernando Tatis Jr. - More 5.5 Hitter Fantasy Score\n\n\n",
+    "slips_won": 0,
+    "units_returned": 0.0,
+    "units_staked": 19,
+    "voids": 11
+  },
   "2026-07-11": {
     "leg_hits": 44,
     "leg_misses": 44,
