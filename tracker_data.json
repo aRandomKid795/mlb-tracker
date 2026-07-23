@@ -24477,32 +24477,16 @@
   },
   "2026-07-22": {
     "leg_hits": 4,
-    "leg_misses": 1,
-    "leg_win_pct": 80.0,
-    "net_units": -1.0,
+    "leg_misses": 0,
+    "leg_win_pct": 100.0,
+    "net_units": 9.0,
     "pushes": 0,
     "slips": {
       "3": {
-        "counting_legs": 5,
+        "counting_legs": 4,
         "hits": 4,
-        "leg_record": "4-1",
+        "leg_record": "4-0",
         "legs": [
-          {
-            "line": 3.0,
-            "pa": 0,
-            "player": "Connor Wong",
-            "result": "VOID",
-            "score": 0,
-            "team": "BOS"
-          },
-          {
-            "line": 2.5,
-            "pa": 3,
-            "player": "Tsung-Che Cheng",
-            "result": "MISS",
-            "score": 0,
-            "team": "BOS"
-          },
           {
             "line": 5.0,
             "pa": 4,
@@ -24536,15 +24520,15 @@
             "team": "MIN"
           }
         ],
-        "multiplier": 0,
-        "won": false
+        "multiplier": 10.0,
+        "won": true
       }
     },
     "slips_staked": 1,
-    "slips_text": "Slip 3\n1. Connor Wong - More 3.0 Hitter Fantasy Score\n2. Tsung-Che Cheng - More 2.5 Hitter Fantasy Score\n3. Lawrence Butler - More 5.0 Hitter Fantasy Score\n4. Jeff McNeil - More 3.5 Hitter Fantasy Score\n5. Yordan Alvarez - More 6.5 Hitter Fantasy Score\n6. Brooks Lee - More 3.5 Hitter Fantasy Score\n\n",
-    "slips_won": 0,
-    "units_returned": 0.0,
+    "slips_text": "Slip 3\n1. Lawrence Butler - More 5.0 Hitter Fantasy Score\n2. Jeff McNeil - More 3.5 Hitter Fantasy Score\n3. Yordan Alvarez - More 6.5 Hitter Fantasy Score\n4. Brooks Lee - More 3.5 Hitter Fantasy Score\n\n",
+    "slips_won": 1,
+    "units_returned": 10.0,
     "units_staked": 1,
-    "voids": 1
+    "voids": 0
   }
 }
