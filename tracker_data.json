@@ -24474,5 +24474,77 @@
     "units_returned": 6.0,
     "units_staked": 25,
     "voids": 59
+  },
+  "2026-07-22": {
+    "leg_hits": 4,
+    "leg_misses": 1,
+    "leg_win_pct": 80.0,
+    "net_units": -1.0,
+    "pushes": 0,
+    "slips": {
+      "3": {
+        "counting_legs": 5,
+        "hits": 4,
+        "leg_record": "4-1",
+        "legs": [
+          {
+            "line": 3.0,
+            "pa": 0,
+            "player": "Connor Wong",
+            "result": "VOID",
+            "score": 0,
+            "team": "BOS"
+          },
+          {
+            "line": 2.5,
+            "pa": 3,
+            "player": "Tsung-Che Cheng",
+            "result": "MISS",
+            "score": 0,
+            "team": "BOS"
+          },
+          {
+            "line": 5.0,
+            "pa": 4,
+            "player": "Lawrence Butler",
+            "result": "HIT",
+            "score": 7,
+            "team": "ATH"
+          },
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Jeff McNeil",
+            "result": "HIT",
+            "score": 19,
+            "team": "ATH"
+          },
+          {
+            "line": 6.5,
+            "pa": 4,
+            "player": "Yordan Alvarez",
+            "result": "HIT",
+            "score": 19,
+            "team": "HOU"
+          },
+          {
+            "line": 3.5,
+            "pa": 5,
+            "player": "Brooks Lee",
+            "result": "HIT",
+            "score": 23,
+            "team": "MIN"
+          }
+        ],
+        "multiplier": 0,
+        "won": false
+      }
+    },
+    "slips_staked": 1,
+    "slips_text": "Slip 3\n1. Connor Wong - More 3.0 Hitter Fantasy Score\n2. Tsung-Che Cheng - More 2.5 Hitter Fantasy Score\n3. Lawrence Butler - More 5.0 Hitter Fantasy Score\n4. Jeff McNeil - More 3.5 Hitter Fantasy Score\n5. Yordan Alvarez - More 6.5 Hitter Fantasy Score\n6. Brooks Lee - More 3.5 Hitter Fantasy Score\n\n",
+    "slips_won": 0,
+    "units_returned": 0.0,
+    "units_staked": 1,
+    "voids": 1
   }
 }
