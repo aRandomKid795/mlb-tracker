@@ -24476,10 +24476,10 @@
     "voids": 59
   },
   "2026-07-22": {
-    "leg_hits": 5,
+    "leg_hits": 10,
     "leg_misses": 0,
     "leg_win_pct": 100.0,
-    "net_units": 19.0,
+    "net_units": 38.0,
     "pushes": 0,
     "slips": {
       "1": {
@@ -24530,13 +24530,70 @@
         ],
         "multiplier": 20.0,
         "won": true
+      },
+      "2": {
+        "counting_legs": 5,
+        "hits": 5,
+        "leg_record": "5-0",
+        "legs": [
+          {
+            "line": 3.5,
+            "pa": 0,
+            "player": "Jeremiah Jackson",
+            "result": "VOID",
+            "score": 0,
+            "team": null
+          },
+          {
+            "line": 5.5,
+            "pa": 5,
+            "player": "Pete Alonso",
+            "result": "HIT",
+            "score": 7,
+            "team": "BAL"
+          },
+          {
+            "line": 5.0,
+            "pa": 5,
+            "player": "Drake Baldwin",
+            "result": "HIT",
+            "score": 14,
+            "team": "ATL"
+          },
+          {
+            "line": 5.0,
+            "pa": 5,
+            "player": "Ozzie Albies",
+            "result": "HIT",
+            "score": 9,
+            "team": "ATL"
+          },
+          {
+            "line": 4.0,
+            "pa": 4,
+            "player": "Heriberto Hern\u00e1ndez",
+            "result": "HIT",
+            "score": 13,
+            "team": "MIA"
+          },
+          {
+            "line": 3.5,
+            "pa": 4,
+            "player": "Bryson Stott",
+            "result": "HIT",
+            "score": 5,
+            "team": "PHI"
+          }
+        ],
+        "multiplier": 20.0,
+        "won": true
       }
     },
-    "slips_staked": 1,
-    "slips_text": "Slip 1\n1. Xander Bogaerts - More 4.5 Hitter Fantasy Score\n2. Luis Rengifo - More 3.5 Hitter Fantasy Score\n3. Sal Stewart - More 4.5 Hitter Fantasy Score\n4. Edwin Arroyo - More 3.0 Hitter Fantasy Score\n5. Braden Montgomery - More 4.5 Hitter Fantasy Score\n\n",
-    "slips_won": 1,
-    "units_returned": 20.0,
-    "units_staked": 1,
-    "voids": 0
+    "slips_staked": 2,
+    "slips_text": "Slip 1\n1. Xander Bogaerts - More 4.5 Hitter Fantasy Score\n2. Luis Rengifo - More 3.5 Hitter Fantasy Score\n3. Sal Stewart - More 4.5 Hitter Fantasy Score\n4. Edwin Arroyo - More 3.0 Hitter Fantasy Score\n5. Braden Montgomery - More 4.5 Hitter Fantasy Score\n\nSlip 2\n1. Jeremiah Jackson - More 3.5 Hitter Fantasy Score\n2. Pete Alonso - More 5.5 Hitter Fantasy Score\n3. Drake Baldwin - More 5.0 Hitter Fantasy Score\n4. Ozzie Albies - More 5.0 Hitter Fantasy Score\n5. Heriberto Hern\u00e1ndez - More 4.0 Hitter Fantasy Score\n6. Bryson Stott - More 3.5 Hitter Fantasy Score\n\n",
+    "slips_won": 2,
+    "units_returned": 40.0,
+    "units_staked": 2,
+    "voids": 1
   }
 }
