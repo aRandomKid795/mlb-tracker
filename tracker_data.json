@@ -24474,5 +24474,69 @@
     "units_returned": 6.0,
     "units_staked": 25,
     "voids": 59
+  },
+  "2026-07-22": {
+    "leg_hits": 5,
+    "leg_misses": 0,
+    "leg_win_pct": 100.0,
+    "net_units": 19.0,
+    "pushes": 0,
+    "slips": {
+      "1": {
+        "counting_legs": 5,
+        "hits": 5,
+        "leg_record": "5-0",
+        "legs": [
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Xander Bogaerts",
+            "result": "HIT",
+            "score": 14,
+            "team": "SD"
+          },
+          {
+            "line": 3.5,
+            "pa": 5,
+            "player": "Luis Rengifo",
+            "result": "HIT",
+            "score": 16,
+            "team": "SD"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Sal Stewart",
+            "result": "HIT",
+            "score": 18,
+            "team": "CIN"
+          },
+          {
+            "line": 3.0,
+            "pa": 4,
+            "player": "Edwin Arroyo",
+            "result": "HIT",
+            "score": 10,
+            "team": "CIN"
+          },
+          {
+            "line": 4.5,
+            "pa": 4,
+            "player": "Braden Montgomery",
+            "result": "HIT",
+            "score": 11,
+            "team": "CWS"
+          }
+        ],
+        "multiplier": 20.0,
+        "won": true
+      }
+    },
+    "slips_staked": 1,
+    "slips_text": "Slip 1\n1. Xander Bogaerts - More 4.5 Hitter Fantasy Score\n2. Luis Rengifo - More 3.5 Hitter Fantasy Score\n3. Sal Stewart - More 4.5 Hitter Fantasy Score\n4. Edwin Arroyo - More 3.0 Hitter Fantasy Score\n5. Braden Montgomery - More 4.5 Hitter Fantasy Score\n\n",
+    "slips_won": 1,
+    "units_returned": 20.0,
+    "units_staked": 1,
+    "voids": 0
   }
 }
